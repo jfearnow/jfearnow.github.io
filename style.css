@@ -155,17 +155,17 @@ p:last-child:after {
 
 @keyframes colorPulse {
   0%, 100% {
-    color:#0c0;
+    color:#666363;
   }
   48%, 52% {
-    color:#090;
+    color:#7c7c7c;
   }
   50% {
-    color:#060;
+    color:#474646;
   }
 }
 
-@keyframes wave {
+/* @keyframes wave {
   0% {
     box-shadow:0 -10vh 20vh #0c0;
     top: 148vh;
@@ -180,7 +180,7 @@ p:last-child:after {
     box-shadow:0 -10vh 20vh #0c0;
     top:223vh;
   }
-}
+} */
 
 @keyframes blink {
   50% {
